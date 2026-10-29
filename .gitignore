@@ -1,0 +1,15 @@
+# Excel lock / temp files
+~$*
+*.tmp
+*.bak
+
+# Local copies and exports
+*.xlsx
+!data/**/*.xlsx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+__pycache__/

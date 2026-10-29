@@ -1,0 +1,11 @@
+*.xlsm binary
+*.xlsx binary
+*.pbix binary
+*.png  binary
+*.gif  binary
+*.mp4  binary
+
+*.bas  text eol=crlf
+*.cls  text eol=crlf
+*.frm  text eol=crlf
+*.vba  text eol=crlf linguist-language=VBA
